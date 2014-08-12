@@ -24,9 +24,6 @@
   "engines": {
     "node": ">=0.8.0"
   },
-  "scripts": {
-    "test": "grunt test"
-  },
   "dependencies": {
     "sprintf-js": "^0.0.7"
   },
@@ -38,6 +35,7 @@
     "grunt": "~0.4.0"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "wordpress"
   ]
 }
