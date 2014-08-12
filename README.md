@@ -2,6 +2,8 @@
 
 > A Grunt wrapper for running WP-CLI to list plugins.
 
+This convenience plugin wraps the [WP-CLI](http://wp-cli.org/) command `wp plugin list` in a grunt task. It provides a quick way for seeing the current state of your Wordpress site's plugin inventory, which is especially handy if you [manage plugins using Composer](http://composer.rarst.net/).
+
 ## Getting Started
 This plugin requires Grunt `~0.4.0`
 
