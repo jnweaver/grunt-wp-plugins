@@ -1,6 +1,6 @@
 {
   "name": "grunt-wp-plugins",
-  "description": "Grunt wrapper of WP-CLI for listing Wordpress plugins",
+  "description": "Grunt rapper for WP-CLI for listing Wordpress plugins",
   "version": "0.0.2",
   "homepage": "https://github.com/jnweaver/grunt-wp-plugins",
   "author": {
